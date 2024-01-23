@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Upload dan Download File PDF Dengan PHP Dan MySQL</title>
+	<title>Info Cindo Iem
+	</title>
 </head>
 <body style="width: 800px; margin: auto; padding: 10px;">
 	<h2 style="text-align: center;">Tabel Upload/Download File (PDF)</h2>
